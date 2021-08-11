@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hcsc-25th.github.io/news/sitemap.xml

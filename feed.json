@@ -1,0 +1,159 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HCSC NEWS",
+    "description": "",
+    "home_page_url": "https://hcsc-25th.github.io/news",
+    "feed_url": "https://hcsc-25th.github.io/news/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HCSC25"
+    },
+    "items": [
+        {
+            "id": "https://hcsc-25th.github.io/news/quan-xin-de-lu-jing-zhuan-ye.html",
+            "url": "https://hcsc-25th.github.io/news/quan-xin-de-lu-jing-zhuan-ye.html",
+            "title": "全新的濾鏡專頁",
+            "summary": "因為原本的網站出現問題，這一次整個換新的，雖然比較少功能，但很簡潔。 原本的： 新的： ",
+            "content_html": "<p>因為原本的網站出現問題，這一次整個換新的，雖然比較少功能，但很簡潔。</p>\n<p>原本的：</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/TZxrPsV.png\" data-is-external-image=\"true\"  alt=\"https://i.imgur.com/TZxrPsV.png\" /></figure></p>\n<p>新的：</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/QlmU2E8.png\" data-is-external-image=\"true\"  alt=\"https://i.imgur.com/QlmU2E8.png\" /></figure></p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2021-08-06T09:48:15+08:00",
+            "date_modified": "2021-08-06T09:48:15+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-wang-zhan-rsszheng-li.html",
+            "url": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-wang-zhan-rsszheng-li.html",
+            "title": "竹中科研網站-rss整理",
+            "summary": "NEWS： https://sl.codeberg.page/feed.xml BLOG： https://hcsc-25th.github.io/blog/atom.xml ODYSEE： https://odysee.com/$/rss/@hcsc-25th:e ",
+            "content_html": "<p>NEWS：\n<a href=\"https://sl.codeberg.page/feed.xml\">https://sl.codeberg.page/feed.xml</a></p>\n<p>BLOG：\n<a href=\"https://hcsc-25th.github.io/blog/atom.xml\">https://hcsc-25th.github.io/blog/atom.xml</a></p>\n<p>ODYSEE：\n<a href=\"https://odysee.com/$/rss/@hcsc-25th:e\">https://odysee.com/$/rss/@hcsc-25th:e</a></p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-05T12:43:52+08:00",
+            "date_modified": "2021-08-05T12:44:00+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/you-facebookfen-si-zhuan-ye-liao.html",
+            "url": "https://hcsc-25th.github.io/news/you-facebookfen-si-zhuan-ye-liao.html",
+            "title": "facebook粉絲專頁",
+            "summary": "連結：https://www.facebook.com/HCSC25th/ 內容：和instagram內容基本上會一致，只是多一個平台。 ",
+            "content_html": "<p>連結：<a href=\"https://www.facebook.com/HCSC25th/\">https://www.facebook.com/HCSC25th/</a></p>\n<p>內容：和instagram內容基本上會一致，只是多一個平台。</p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2021-08-05T12:09:49+08:00",
+            "date_modified": "2021-08-05T12:39:02+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/quan-xin-de-zhu-zhong-ke-yan-wang-zhan-zhu-ye.html",
+            "url": "https://hcsc-25th.github.io/news/quan-xin-de-zhu-zhong-ke-yan-wang-zhan-zhu-ye.html",
+            "title": "全新的竹中科研網站主頁",
+            "summary": "經過重新的製作，竹中科研的網頁主頁變得更好看了！並且加進更多資訊，及連結。 這是原本的 新的主頁 連結：https://hcsc-25th.github.io/ ",
+            "content_html": "<p>經過重新的製作，竹中科研的網頁主頁變得更好看了！並且加進更多資訊，及連結。</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/ZutErK2.png\" data-is-external-image=\"true\"  alt=\"original\" /></figure></p>\n<p>這是原本的</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/U5ns5WC.png\" data-is-external-image=\"true\"  alt=\"website screen shot\" /></figure></p>\n<p>新的主頁</p>\n<p>連結：<a href=\"https://hcsc-25th.github.io/\">https://hcsc-25th.github.io/</a></p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2021-08-05T09:20:36+08:00",
+            "date_modified": "2021-08-05T20:04:35+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-shu-qi-wen-zhang-zhu-zhong-ke-yan-shi-yan-shi.html",
+            "url": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-shu-qi-wen-zhang-zhu-zhong-ke-yan-shi-yan-shi.html",
+            "title": "竹中科研暑期文章-竹中科研實驗室",
+            "summary": "文章持續更新中，一個禮拜兩篇科學文章，暑假閱讀學知識！ 內容豐富多元，歡迎到網站閱讀全部科普文。 竹中科研實驗室網站：https://hcsc-25th.github.io/lab/ 竹中科研部落格同步發表：https://hcsc-25th.github.io/blog/ 科學冷知識 有趣小實驗 科學史上重大發現 科學相關的冷知識 有趣的簡單小實驗 科學史上重大發現 ",
+            "content_html": "<p>文章持續更新中，一個禮拜兩篇科學文章，暑假閱讀學知識！\n內容豐富多元，歡迎到網站閱讀全部科普文。</p>\n<p>竹中科研實驗室網站：<a href=\"https://hcsc-25th.github.io/lab/\">https://hcsc-25th.github.io/lab/</a></p>\n<p>竹中科研部落格同步發表：<a href=\"https://hcsc-25th.github.io/blog/\">https://hcsc-25th.github.io/blog/</a></p>\n<table>\n<thead>\n<tr>\n<th align=\"center\">科學冷知識</th>\n<th align=\"center\">有趣小實驗</th>\n<th align=\"center\">科學史上重大發現</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"center\">科學相關的冷知識<br><img loading=\"lazy\" src='https://i.imgur.com/oQ2wojr.png' style='width:120px'></td>\n<td align=\"center\">有趣的簡單小實驗<br><img loading=\"lazy\" src='https://i.imgur.com/VDzZJD7.png' style='width:120px'></td>\n<td align=\"center\">科學史上重大發現<br><img loading=\"lazy\" src='https://i.imgur.com/lTKTN4I.png' style='width:120px'></td>\n</tr>\n</tbody></table>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "campaign"
+            ],
+            "date_published": "2021-08-04T18:29:01+08:00",
+            "date_modified": "2021-08-04T18:37:34+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/wo-men-you-youtubepin-dao-la.html",
+            "url": "https://hcsc-25th.github.io/news/wo-men-you-youtubepin-dao-la.html",
+            "title": "我們有youtube頻道啦",
+            "summary": "之前因為懶，所以不想要用一個google帳號，太麻煩了，所以就只有用了一個odysee頻道。但是因為odysee可能是因為都在西方國家晚上時更新系統或之類的，在台灣中午左右，有時候會進不去，所以才決定再創一個youtube頻道。連結：https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ ",
+            "content_html": "<p>之前因為懶，所以不想要用一個google帳號，太麻煩了，所以就只有用了一個odysee頻道。但是因為odysee可能是因為都在西方國家晚上時更新系統或之類的，在台灣中午左右，有時候會進不去，所以才決定再創一個youtube頻道。連結：<a href=\"https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ\">https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ</a></p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2021-08-04T18:18:23+08:00",
+            "date_modified": "2021-08-04T18:36:18+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/wen-zhang-zhong-de-ying-pian-bu-neng-kanhuo-yi-zhi-zai-ru.html",
+            "url": "https://hcsc-25th.github.io/news/wen-zhang-zhong-de-ying-pian-bu-neng-kanhuo-yi-zhi-zai-ru.html",
+            "title": "文章中的影片不能看，或一直載入？",
+            "summary": "竹中科研文章中的影片如果出現錯誤情形，導致無法看影片內容時，通常有下列幾種方式可以解決 直接到odysee主網站觀看 連結，有時候只是嵌入的網站有問題 到youtube觀看 連結 因為有可能是主機剛開機，所以隔一天之後再看可能就好了。 IGTV應該也會有對應的影片 IG 連結 ",
+            "content_html": "<p>竹中科研文章中的影片如果出現錯誤情形，導致無法看影片內容時，通常有下列幾種方式可以解決</p>\n<ul>\n<li>直接到odysee主網站觀看 <a href=\"https://odysee.com/@hcsc-25th:e\">連結</a>，有時候只是嵌入的網站有問題</li>\n<li>到youtube觀看 <a href=\"https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ\">連結</a></li>\n<li>因為有可能是主機剛開機，所以隔一天之後再看可能就好了。</li>\n<li>IGTV應該也會有對應的影片 <a href=\"https://hcsc-25th.github.io/s/IG/\">IG 連結</a></li>\n</ul>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-04T18:17:45+08:00",
+            "date_modified": "2021-08-04T18:17:45+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/xin-de-ying-pian-pian-tou-wo.html",
+            "url": "https://hcsc-25th.github.io/news/xin-de-ying-pian-pian-tou-wo.html",
+            "title": "新的影片片頭喔！",
+            "summary": "這次換片頭主要是因為想要換掉原本的音樂，順便重作，並且加了實驗室版本片頭。 ",
+            "content_html": "<p>這次換片頭主要是因為想要換掉原本的音樂，順便重作，並且加了實驗室版本片頭。</p>\n<!-- more -->\n\n<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"lbry-iframe\" width=\"560\" height=\"315\" src=\"https://odysee.com/$/embed/intro-0719/66dbaf35c8f6d09466c575a93b324256ced305c4?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy\" allowfullscreen></iframe></div>\n\n<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"lbry-iframe\" width=\"560\" height=\"315\" src=\"https://odysee.com/$/embed/lab-intro-0719/6aa428a607e9e2fe82250a47962126437c4c2bc1?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy\" allowfullscreen></iframe></div>",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2021-08-04T18:16:16+08:00",
+            "date_modified": "2021-08-04T18:36:31+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-iglu-jinghuan-bei-jingartie-zhi.html",
+            "url": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-iglu-jinghuan-bei-jingartie-zhi.html",
+            "title": "竹中科研IG濾鏡！換背景、ar貼紙",
+            "summary": "竹中科研IG濾鏡可以用啦！ 所有濾鏡連結： 使用教學影片： ",
+            "content_html": "<h3 id=\"竹中科研ig濾鏡可以用啦！\">竹中科研IG濾鏡可以用啦！</h3>\n<p>所有濾鏡連結：</p>\n<ul>\n<li><a href=\"https://hcsc-25th.github.io/filter/\">https://hcsc-25th.github.io/filter/</a></li>\n</ul>\n<!-- more -->\n\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 177.7778%;\n padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEiEGcvW9o&#x2F;watch?embed\">\n  </iframe>\n</div>\n\n\n<p>使用教學影片：</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"lbry-iframe\" width=\"560\" height=\"315\" src=\"https://odysee.com/$/embed/ig-filter-0622/7e8fe8ca021ac6bcb571a47e0a5ecdcc643dc994?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy\" allowfullscreen></iframe></div>\n\n<div class=\"post__iframe\"><iframe loading=\"lazy\" src='https://hcsc-25th.github.io/filter/slides.html' width='100%' height='500px' style='max-width: 750px' frameborder='0'></iframe></div>",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-04T18:15:38+08:00",
+            "date_modified": "2021-08-04T18:15:38+08:00"
+        },
+        {
+            "id": "https://hcsc-25th.github.io/news/xuan-gan-luozhu-zhong-ke-yan-25jie.html",
+            "url": "https://hcsc-25th.github.io/news/xuan-gan-luozhu-zhong-ke-yan-25jie.html",
+            "title": "宣幹囉，竹中科研25屆",
+            "summary": " 宣幹 🚀- 幹部名單 - 🔶社長兼公關 莊川賡 「提問、實驗、思考、討論、分享—-是竹中科研必須一起提升的能力，其中又以討論最為困難、提問次之。」 🔶副社長 李書漢 「做好一個人該做的事。」 🔶總務 林彥均 「不要怕前面的路有什麼挑戰，有我們陪著你。」 🔶文書 曾柏鈞 「如果說我看得比別人更遠，那是因為我長得比你們都還高。」 🔶管理 李宸漢 「在這個地球上，沒有人是完美的。」 🔶教學 周峻葳 「失敗不要放棄，因為只要你放棄，你就真的失敗了。」 🔶宣傳 柯亮宇 「放棄是一秒鐘的事，堅持是一輩子的修養。」 感謝學長給我們當幹部的機會 竹中科研，絕非等閑 ℍℂ𝕊ℂ 𝟚𝟝𝕋ℍ 這是 Office 提供的內嵌 Microsoft Office 簡報。",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"lbry-iframe\" width=\"560\" height=\"315\" src=\"https://odysee.com/$/embed/hcsc25-announce-leaders/a8078373f05dc1ff12597bd20957751c4927bf17?r=HLfVfbCdDKPhWJBUARfFLA95DraiNAr3\" allowfullscreen frameborder=\"0\"></iframe></div>\n\n<hr>\n<h2 id=\"宣幹\">宣幹</h2>\n<h3 id=\"🚀--幹部名單--\">🚀- 幹部名單 -</h3>\n<!-- more -->\n\n<p>🔶社長兼公關 莊川賡\n    「提問、實驗、思考、討論、分享—-是竹中科研必須一起提升的能力，其中又以討論最為困難、提問次之。」\n🔶副社長 李書漢\n    「做好一個人該做的事。」\n🔶總務 林彥均\n    「不要怕前面的路有什麼挑戰，有我們陪著你。」\n🔶文書 曾柏鈞\n    「如果說我看得比別人更遠，那是因為我長得比你們都還高。」\n🔶管理 李宸漢\n    「在這個地球上，沒有人是完美的。」\n🔶教學 周峻葳\n    「失敗不要放棄，因為只要你放棄，你就真的失敗了。」\n🔶宣傳 柯亮宇\n    「放棄是一秒鐘的事，堅持是一輩子的修養。」</p>\n<hr>\n<p>感謝學長給我們當幹部的機會\n竹中科研，絕非等閑</p>\n<ul>\n<li>ℍℂ𝕊ℂ 𝟚𝟝𝕋ℍ </li>\n</ul>\n<hr>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://onedrive.live.com/embed?cid=DF32C6244485D8E0&amp;resid=df32c6244485d8e0%21347&amp;authkey=AIl9Ukne3ENj-Kw&amp;em=2&amp;wdAr=1&amp;wdEaa=1\" width=\"300px\" height=\"286px\" frameborder=\"0\">這是 <a target=\"_blank\" href=\"https://office.com/webapps\">Office</a> 提供的內嵌 <a target=\"_blank\" href=\"https://office.com\">Microsoft Office</a> 簡報。</iframe></div>",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-04T18:14:42+08:00",
+            "date_modified": "2021-08-04T18:14:42+08:00"
+        }
+    ]
+}
