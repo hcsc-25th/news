@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://hcsc-25th.github.io/news/wang-ye-geng-xin-guan-yu-zhu-zhong-ke-yan.html",
+            "url": "https://hcsc-25th.github.io/news/wang-ye-geng-xin-guan-yu-zhu-zhong-ke-yan.html",
+            "title": "網頁更新-關於竹中科研",
+            "summary": "原本 新的 ",
+            "content_html": "<p>原本</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/dRQUHw5.png\" data-is-external-image=\"true\"  alt=\"original\" /></figure></p>\n<p>新的</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/Obt2Ssn.png\" data-is-external-image=\"true\"  alt=\"new\" /></figure></p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2021-08-13T14:37:03+08:00",
+            "date_modified": "2021-08-13T14:38:14+08:00"
+        },
+        {
             "id": "https://hcsc-25th.github.io/news/xin-wang-ye-wen-wen-ti-biao-dan.html",
             "url": "https://hcsc-25th.github.io/news/xin-wang-ye-wen-wen-ti-biao-dan.html",
             "title": "新網頁-問問題表單",
@@ -141,20 +156,6 @@
             ],
             "date_published": "2021-08-04T18:16:16+08:00",
             "date_modified": "2021-08-04T18:36:31+08:00"
-        },
-        {
-            "id": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-iglu-jinghuan-bei-jingartie-zhi.html",
-            "url": "https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-iglu-jinghuan-bei-jingartie-zhi.html",
-            "title": "竹中科研IG濾鏡！換背景、ar貼紙",
-            "summary": "竹中科研IG濾鏡可以用啦！ 所有濾鏡連結： 使用教學影片： ",
-            "content_html": "<h3 id=\"竹中科研ig濾鏡可以用啦！\">竹中科研IG濾鏡可以用啦！</h3>\n<p>所有濾鏡連結：</p>\n<ul>\n<li><a href=\"https://hcsc-25th.github.io/filter/\">https://hcsc-25th.github.io/filter/</a></li>\n</ul>\n<!-- more -->\n\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 177.7778%;\n padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEiEGcvW9o&#x2F;watch?embed\">\n  </iframe>\n</div>\n\n\n<p>使用教學影片：</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"lbry-iframe\" width=\"560\" height=\"315\" src=\"https://odysee.com/$/embed/ig-filter-0622/7e8fe8ca021ac6bcb571a47e0a5ecdcc643dc994?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy\" allowfullscreen></iframe></div>\n\n<div class=\"post__iframe\"><iframe loading=\"lazy\" src='https://hcsc-25th.github.io/filter/slides.html' width='100%' height='500px' style='max-width: 750px' frameborder='0'></iframe></div>",
-            "author": {
-                "name": "HCSC25"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-08-04T18:15:38+08:00",
-            "date_modified": "2021-08-04T18:15:38+08:00"
         }
     ]
 }

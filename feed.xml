@@ -3,12 +3,37 @@
     <title>HCSC NEWS</title>
     <link href="https://hcsc-25th.github.io/news/feed.xml" rel="self" />
     <link href="https://hcsc-25th.github.io/news" />
-    <updated>2021-08-11T09:57:22+08:00</updated>
+    <updated>2021-08-13T14:38:14+08:00</updated>
     <author>
         <name>HCSC25</name>
     </author>
     <id>https://hcsc-25th.github.io/news</id>
 
+    <entry>
+        <title>網頁更新-關於竹中科研</title>
+        <author>
+            <name>HCSC25</name>
+        </author>
+        <link href="https://hcsc-25th.github.io/news/wang-ye-geng-xin-guan-yu-zhu-zhong-ke-yan.html"/>
+        <id>https://hcsc-25th.github.io/news/wang-ye-geng-xin-guan-yu-zhu-zhong-ke-yan.html</id>
+            <category term="new"/>
+
+        <updated>2021-08-13T14:38:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                    原本 新的 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>原本</p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/dRQUHw5.png" data-is-external-image="true"  alt="original" /></figure></p>
+<p>新的</p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/Obt2Ssn.png" data-is-external-image="true"  alt="new" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>新網頁-問問題表單</title>
         <author>
@@ -247,45 +272,6 @@
 <div class="post__iframe"><iframe loading="lazy" id="lbry-iframe" width="560" height="315" src="https://odysee.com/$/embed/intro-0719/66dbaf35c8f6d09466c575a93b324256ced305c4?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy" allowfullscreen></iframe></div>
 
 <div class="post__iframe"><iframe loading="lazy" id="lbry-iframe" width="560" height="315" src="https://odysee.com/$/embed/lab-intro-0719/6aa428a607e9e2fe82250a47962126437c4c2bc1?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy" allowfullscreen></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>竹中科研IG濾鏡！換背景、ar貼紙</title>
-        <author>
-            <name>HCSC25</name>
-        </author>
-        <link href="https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-iglu-jinghuan-bei-jingartie-zhi.html"/>
-        <id>https://hcsc-25th.github.io/news/zhu-zhong-ke-yan-iglu-jinghuan-bei-jingartie-zhi.html</id>
-
-        <updated>2021-08-04T18:15:38+08:00</updated>
-            <summary>
-                <![CDATA[
-                    竹中科研IG濾鏡可以用啦！ 所有濾鏡連結： 使用教學影片： 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3 id="竹中科研ig濾鏡可以用啦！">竹中科研IG濾鏡可以用啦！</h3>
-<p>所有濾鏡連結：</p>
-<ul>
-<li><a href="https://hcsc-25th.github.io/filter/">https://hcsc-25th.github.io/filter/</a></li>
-</ul>
-<!-- more -->
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 177.7778%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEiEGcvW9o&#x2F;watch?embed">
-  </iframe>
-</div>
-
-
-<p>使用教學影片：</p>
-<div class="post__iframe"><iframe loading="lazy" id="lbry-iframe" width="560" height="315" src="https://odysee.com/$/embed/ig-filter-0622/7e8fe8ca021ac6bcb571a47e0a5ecdcc643dc994?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy" allowfullscreen></iframe></div>
-
-<div class="post__iframe"><iframe loading="lazy" src='https://hcsc-25th.github.io/filter/slides.html' width='100%' height='500px' style='max-width: 750px' frameborder='0'></iframe></div>
             ]]>
         </content>
     </entry>
