@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://hcsc-25th.github.io/news/2021zhu-zhong-she-tuan-bo-lan-hui-zheng-shi-qi-dong.html",
+            "url": "https://hcsc-25th.github.io/news/2021zhu-zhong-she-tuan-bo-lan-hui-zheng-shi-qi-dong.html",
+            "title": "2021竹中社團博覽會 正式啟動",
+            "summary": "2021/08/2425為竹中社博，因疫情所以形式為線上進行。 本次科研社有準備豐富內容，趕快來參觀，有gather town互動和靜態的學校社博網站。 ",
+            "content_html": "<p>2021/08/2425為竹中社博，因疫情所以形式為線上進行。\n本次科研社有準備豐富內容，趕快來參觀，有gather town互動和靜態的學校社博網站。</p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "event"
+            ],
+            "date_published": "2021-08-24T11:04:30+08:00",
+            "date_modified": "2021-08-24T11:04:59+08:00"
+        },
+        {
             "id": "https://hcsc-25th.github.io/news/wang-ye-geng-xin-guan-yu-zhu-zhong-ke-yan.html",
             "url": "https://hcsc-25th.github.io/news/wang-ye-geng-xin-guan-yu-zhu-zhong-ke-yan.html",
             "title": "網頁更新-關於竹中科研",
@@ -141,21 +156,6 @@
             ],
             "date_published": "2021-08-04T18:17:45+08:00",
             "date_modified": "2021-08-04T18:17:45+08:00"
-        },
-        {
-            "id": "https://hcsc-25th.github.io/news/xin-de-ying-pian-pian-tou-wo.html",
-            "url": "https://hcsc-25th.github.io/news/xin-de-ying-pian-pian-tou-wo.html",
-            "title": "新的影片片頭喔！",
-            "summary": "這次換片頭主要是因為想要換掉原本的音樂，順便重作，並且加了實驗室版本片頭。 ",
-            "content_html": "<p>這次換片頭主要是因為想要換掉原本的音樂，順便重作，並且加了實驗室版本片頭。</p>\n<!-- more -->\n\n<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"lbry-iframe\" width=\"560\" height=\"315\" src=\"https://odysee.com/$/embed/intro-0719/66dbaf35c8f6d09466c575a93b324256ced305c4?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy\" allowfullscreen></iframe></div>\n\n<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"lbry-iframe\" width=\"560\" height=\"315\" src=\"https://odysee.com/$/embed/lab-intro-0719/6aa428a607e9e2fe82250a47962126437c4c2bc1?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy\" allowfullscreen></iframe></div>",
-            "author": {
-                "name": "HCSC25"
-            },
-            "tags": [
-                   "new"
-            ],
-            "date_published": "2021-08-04T18:16:16+08:00",
-            "date_modified": "2021-08-04T18:36:31+08:00"
         }
     ]
 }

@@ -3,12 +3,35 @@
     <title>HCSC NEWS</title>
     <link href="https://hcsc-25th.github.io/news/feed.xml" rel="self" />
     <link href="https://hcsc-25th.github.io/news" />
-    <updated>2021-08-13T14:38:14+08:00</updated>
+    <updated>2021-08-24T11:04:59+08:00</updated>
     <author>
         <name>HCSC25</name>
     </author>
     <id>https://hcsc-25th.github.io/news</id>
 
+    <entry>
+        <title>2021竹中社團博覽會 正式啟動</title>
+        <author>
+            <name>HCSC25</name>
+        </author>
+        <link href="https://hcsc-25th.github.io/news/2021zhu-zhong-she-tuan-bo-lan-hui-zheng-shi-qi-dong.html"/>
+        <id>https://hcsc-25th.github.io/news/2021zhu-zhong-she-tuan-bo-lan-hui-zheng-shi-qi-dong.html</id>
+            <category term="event"/>
+
+        <updated>2021-08-24T11:04:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    2021/08/2425為竹中社博，因疫情所以形式為線上進行。 本次科研社有準備豐富內容，趕快來參觀，有gather town互動和靜態的學校社博網站。 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>2021/08/2425為竹中社博，因疫情所以形式為線上進行。
+本次科研社有準備豐富內容，趕快來參觀，有gather town互動和靜態的學校社博網站。</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>網頁更新-關於竹中科研</title>
         <author>
@@ -246,32 +269,6 @@
 <li>IGTV應該也會有對應的影片 <a href="https://hcsc-25th.github.io/s/IG/">IG 連結</a></li>
 </ul>
 
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>新的影片片頭喔！</title>
-        <author>
-            <name>HCSC25</name>
-        </author>
-        <link href="https://hcsc-25th.github.io/news/xin-de-ying-pian-pian-tou-wo.html"/>
-        <id>https://hcsc-25th.github.io/news/xin-de-ying-pian-pian-tou-wo.html</id>
-            <category term="new"/>
-
-        <updated>2021-08-04T18:36:31+08:00</updated>
-            <summary>
-                <![CDATA[
-                    這次換片頭主要是因為想要換掉原本的音樂，順便重作，並且加了實驗室版本片頭。 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>這次換片頭主要是因為想要換掉原本的音樂，順便重作，並且加了實驗室版本片頭。</p>
-<!-- more -->
-
-<div class="post__iframe"><iframe loading="lazy" id="lbry-iframe" width="560" height="315" src="https://odysee.com/$/embed/intro-0719/66dbaf35c8f6d09466c575a93b324256ced305c4?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy" allowfullscreen></iframe></div>
-
-<div class="post__iframe"><iframe loading="lazy" id="lbry-iframe" width="560" height="315" src="https://odysee.com/$/embed/lab-intro-0719/6aa428a607e9e2fe82250a47962126437c4c2bc1?r=2a6wHSsiTCNDd56DAmwTTepzdVgofevy" allowfullscreen></iframe></div>
             ]]>
         </content>
     </entry>
