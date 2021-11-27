@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://hcsc-25th.github.io/news/hcscshou-jidian-nao-zhuo-bu-fa-bu.html",
+            "url": "https://hcsc-25th.github.io/news/hcscshou-jidian-nao-zhuo-bu-fa-bu.html",
+            "title": "HCSC手機、電腦桌布發布",
+            "summary": "連結在這兒 ",
+            "content_html": "<p><a href=\"https://imgur.com/gallery/c7Em2ME\">連結在這兒</a></p>\n",
+            "author": {
+                "name": "HCSC25"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2021-11-27T22:07:43+08:00",
+            "date_modified": "2021-11-27T22:09:16+08:00"
+        },
+        {
             "id": "https://hcsc-25th.github.io/news/di-si-jie-quan-guo-gao-zhong-shu-li-ke-xue-jing-sai-pei-xun-ying-chong-xin-kai-fang-bao-ming.html",
             "url": "https://hcsc-25th.github.io/news/di-si-jie-quan-guo-gao-zhong-shu-li-ke-xue-jing-sai-pei-xun-ying-chong-xin-kai-fang-bao-ming.html",
             "title": "第四屆全國高中數理科學競賽培訓營 重新開放報名",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2021-08-05T12:09:49+08:00",
             "date_modified": "2021-08-05T12:39:02+08:00"
-        },
-        {
-            "id": "https://hcsc-25th.github.io/news/quan-xin-de-zhu-zhong-ke-yan-wang-zhan-zhu-ye.html",
-            "url": "https://hcsc-25th.github.io/news/quan-xin-de-zhu-zhong-ke-yan-wang-zhan-zhu-ye.html",
-            "title": "全新的竹中科研網站主頁",
-            "summary": "經過重新的製作，竹中科研的網頁主頁變得更好看了！並且加進更多資訊，及連結。 這是原本的 新的主頁 連結：https://hcsc-25th.github.io/ ",
-            "content_html": "<p>經過重新的製作，竹中科研的網頁主頁變得更好看了！並且加進更多資訊，及連結。</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/ZutErK2.png\" data-is-external-image=\"true\"  alt=\"original\" /></figure></p>\n<p>這是原本的</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/U5ns5WC.png\" data-is-external-image=\"true\"  alt=\"website screen shot\" /></figure></p>\n<p>新的主頁</p>\n<p>連結：<a href=\"https://hcsc-25th.github.io/\">https://hcsc-25th.github.io/</a></p>\n",
-            "author": {
-                "name": "HCSC25"
-            },
-            "tags": [
-                   "new"
-            ],
-            "date_published": "2021-08-05T09:20:36+08:00",
-            "date_modified": "2021-08-05T20:04:35+08:00"
         }
     ]
 }

@@ -3,12 +3,34 @@
     <title>HCSC NEWS</title>
     <link href="https://hcsc-25th.github.io/news/feed.xml" rel="self" />
     <link href="https://hcsc-25th.github.io/news" />
-    <updated>2021-10-27T22:20:16+08:00</updated>
+    <updated>2021-11-27T22:09:16+08:00</updated>
     <author>
         <name>HCSC25</name>
     </author>
     <id>https://hcsc-25th.github.io/news</id>
 
+    <entry>
+        <title>HCSC手機、電腦桌布發布</title>
+        <author>
+            <name>HCSC25</name>
+        </author>
+        <link href="https://hcsc-25th.github.io/news/hcscshou-jidian-nao-zhuo-bu-fa-bu.html"/>
+        <id>https://hcsc-25th.github.io/news/hcscshou-jidian-nao-zhuo-bu-fa-bu.html</id>
+            <category term="new"/>
+
+        <updated>2021-11-27T22:09:16+08:00</updated>
+            <summary>
+                <![CDATA[
+                    連結在這兒 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://imgur.com/gallery/c7Em2ME">連結在這兒</a></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>第四屆全國高中數理科學競賽培訓營 重新開放報名</title>
         <author>
@@ -267,33 +289,6 @@ P.S. 參與服務有志工時數、西式餐盒乙份</p>
             <![CDATA[
                 <p>連結：<a href="https://www.facebook.com/HCSC25th/">https://www.facebook.com/HCSC25th/</a></p>
 <p>內容：和instagram內容基本上會一致，只是多一個平台。</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>全新的竹中科研網站主頁</title>
-        <author>
-            <name>HCSC25</name>
-        </author>
-        <link href="https://hcsc-25th.github.io/news/quan-xin-de-zhu-zhong-ke-yan-wang-zhan-zhu-ye.html"/>
-        <id>https://hcsc-25th.github.io/news/quan-xin-de-zhu-zhong-ke-yan-wang-zhan-zhu-ye.html</id>
-            <category term="new"/>
-
-        <updated>2021-08-05T20:04:35+08:00</updated>
-            <summary>
-                <![CDATA[
-                    經過重新的製作，竹中科研的網頁主頁變得更好看了！並且加進更多資訊，及連結。 這是原本的 新的主頁 連結：https://hcsc-25th.github.io/ 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>經過重新的製作，竹中科研的網頁主頁變得更好看了！並且加進更多資訊，及連結。</p>
-<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/ZutErK2.png" data-is-external-image="true"  alt="original" /></figure></p>
-<p>這是原本的</p>
-<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/U5ns5WC.png" data-is-external-image="true"  alt="website screen shot" /></figure></p>
-<p>新的主頁</p>
-<p>連結：<a href="https://hcsc-25th.github.io/">https://hcsc-25th.github.io/</a></p>
 
             ]]>
         </content>
